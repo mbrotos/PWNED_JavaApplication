@@ -3,4 +3,4 @@ Implements https://haveibeenpwned.com/Passwords using the https://haveibeenpwned
 
 # Inspiration
 
-This project was inspired by [https://www.youtube.com/watch?v=hhUb5iknVJs](Have You Been Pwned? - Computerphile) with the original commandline application begin found [https://github.com/mikepound/pwned-search](HERE).
+This project was inspired by [https://www.youtube.com/watch?v=hhUb5iknVJs] with the original commandline application begin found [https://github.com/mikepound/pwned-search].
